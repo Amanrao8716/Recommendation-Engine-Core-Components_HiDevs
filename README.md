@@ -180,3 +180,8 @@ Possible next steps include:
 
 ## Missing Ground Truth Behavior
 When a user has no ground-truth data, the evaluator skips that user and continues evaluating the remaining users. This avoids crashes and keeps the evaluation process stable for sparse or partially labeled datasets.
+## 🎥 Project Demo
+
+Watch the complete project demonstration:
+
+**[▶️ Watch Recommendation Engine Demo on YouTube](https://youtu.be/Q5Rq_R-KK3c)**
